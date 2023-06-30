@@ -1,0 +1,1 @@
+diff <(cat -t "5.txt") <(./s21_cat -t "5.txt") -s
